@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Albert Arrebola! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://avatars.githubusercontent.com/u/104431726?v=4" width="30px"/>
   <strong>Docente & Desarrollador apasionado</strong>
 </p>
 
@@ -18,20 +18,30 @@
 
 ### 📊 GitHub Stats
 
-![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Arrebola&show_icons=true&theme=tokyonight)
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=asans2425&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Arrebola&layout=compact&theme=tokyonight)](https://github.com/Albert-Arrebola)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asans2425&layout=compact&theme=tokyonight)](https://github.com/Albert-Arrebola)
 
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Albert-Arrebola&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asans2425&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asans2425&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asans2425&theme=radical&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asans2425&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
 ---
 
 ### 📌 Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -72,7 +82,7 @@ jobs:
       - name: Update GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
-          username: Albert-Arrebola
+          username: asans2425
           theme: tokyonight
 ```
 ---
