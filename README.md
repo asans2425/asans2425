@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode"/>
 </p> 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asans2425&layout=compact&theme=tokyonight)](https://github.com/Albert-Arrebola)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asans2425&layout=compact&theme=tokyonight)](https://github.com/asans2425)
   
 </div>
 
